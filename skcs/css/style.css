@@ -1225,7 +1225,7 @@ header .navigation .navbar-header .navbar-brand a img {
 
 @media(max-width:300px){
   .container .col-md-7 .map #google-map iframe {
-    width: 230px;
+    width: 200px;
     height: 400px;
   }
 }
